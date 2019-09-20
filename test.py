@@ -1,5 +1,4 @@
-[200~foods = {}
-
+foods = {}
         main_menu = print('Main menu\n1: add\n2: delete\n3: view\n4: exit\n--------')
         options = int(input('\nEnter menu number: '))
 
